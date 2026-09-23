@@ -1,30 +1,24 @@
-# AAKAR — Aura Beauty Studio Demo
+# AAKAR — Aura Beauty Studio
 
-A responsive portfolio/demo website built for AAKAR Digital Studio.
+A modern, responsive website for Aura Beauty Studio, designed and developed by AAKAR Digital Studio.
 
-## Stack
+## Technologies
+
 - HTML5
 - CSS3
 - Bootstrap 5
 - Vanilla JavaScript
 - Google Fonts
-- Unsplash demo imagery
 
-## Run locally
-Open `index.html` in a browser.
+## Features
 
-For the best local development experience, use VS Code + Live Server.
-
-## Deploy to Vercel
-1. Create a GitHub repository.
-2. Upload `index.html`, `css/`, and `js/`.
-3. Import the repository into Vercel.
-4. Framework preset: Other.
-5. Build command: leave empty.
-6. Output directory: leave empty.
-7. Deploy.
-
-## Important
-This is a portfolio concept. The salon name, contact details, prices, testimonials and location are fictional/demo content and must be replaced before being used for a real client.
-
-The image URLs point to Unsplash demo images; for a real client, use images the client owns or has permission to use.
+- Responsive design
+- Modern navigation
+- Hero section
+- About section
+- Services section
+- Gallery
+- Testimonials
+- Contact and booking section
+- WhatsApp call-to-action
+- Mobile-friendly layout
