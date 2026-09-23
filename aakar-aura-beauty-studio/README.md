@@ -2,14 +2,6 @@
 
 A modern, responsive website for Aura Beauty Studio, designed and developed by AAKAR Digital Studio.
 
-## Technologies
-
-- HTML5
-- CSS3
-- Bootstrap 5
-- Vanilla JavaScript
-- Google Fonts
-
 ## Features
 
 - Responsive design
